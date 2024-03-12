@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    height: 100px;
+}
+
+ul{
+    gap: 75px;
+    padding-left: 15%;
+    list-style: none;
+}
+
+a{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    flex-direction: column;
+}
